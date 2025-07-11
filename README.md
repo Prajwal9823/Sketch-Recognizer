@@ -33,11 +33,11 @@ data/
 python -m venv venv
 venv\Scripts\activate
 
-✅ 2. Install Required Packages
+### ✅ 2. Install Required Packages
 ```bash
 pip install -r requirements.txt
 
-✅ 3. Train the Model
+### ✅ 3. Train the Model
 ```bash
 python train_model.py
 
